@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="BinarySearch.cpp" />
     <ClCompile Include="Binarytree.cpp" />
+    <ClCompile Include="Graph.cpp" />
     <ClCompile Include="heapSort.cpp" />
     <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="Main.cpp" />
